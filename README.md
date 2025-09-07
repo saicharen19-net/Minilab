@@ -17,5 +17,16 @@ This project was a deep dive into core Layer 2 and Layer 3 switching concepts, d
 
 Custom VLANs for segmentation and traffic isolation.
 
+📊 Final Implementation Snapshot
 
+<img width="1867" height="698" alt="Screenshot 2025-09-07 184038" src="https://github.com/user-attachments/assets/e90fb003-b27e-4b6e-988b-6e8c1541508c" />
+
+## ✅ Verification & Testing - Devices in the *Inter VLAN communicate* successfully.
+
+<img width="859" height="592" alt="Screenshot 2025-09-07 191516" src="https://github.com/user-attachments/assets/e0ae73bc-9f04-4509-8885-a2c200dbae2c" />
+
+👨‍💻 Author
+Sai Charen
+
+Skilled in Networking, Cisco Packet Tracer, and Enterprise IT Solutions.
 
