@@ -1,4 +1,4 @@
-# 🚀 Cisco Packet Tracer mini lab!
+# Cisco Packet Tracer mini lab!
 This project was a deep dive into core Layer 2 and Layer 3 switching concepts, designed to simulate a scalable enterprise network.
 
 🔧 Key Technologies Implemented:
